@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "source": "brian.md",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-04-03T13:58:45-04:00",
+  "id": "1001",
+  "duration": 10,
+  "title": "This is the Title - My First Codelab",
+  "summary": "My First Codelab",
+  "theme": "",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "go"
+  ],
+  "tags": [
+    "linux"
+  ],
+  "feedback": "github.com/bketelsen/codelabs",
+  "ga": "0",
+  "url": "1001"
+}
